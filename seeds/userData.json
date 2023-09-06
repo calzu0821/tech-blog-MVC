@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Michael Scott",
+      "email": "mscott@dundermifflin.com",
+      "password": "password123"
+    },
+    {
+      "name": "Dwight Schrute",
+      "email": "dschrute@dundermifflin.com",
+      "password": "password456"
+    },
+    {
+      "name": "Jim Halpert",
+      "email": "jhalpert@dundermifflin.com",
+      "password": "password789"
+    }
+  ]
