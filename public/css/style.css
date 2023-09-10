@@ -9,12 +9,12 @@ body {
   }
   
   a {
-    color: lavender;
+    color: blue;
     text-decoration: none;
   }
   
   a:hover {
-    color: darkgray;
+    color: lightblue;
     text-decoration: underline;
   }
   
@@ -35,12 +35,12 @@ body {
     border: none;
     padding: 0;
     cursor: pointer;
-    color:lavender;
+    color: blue;
     text-decoration: none;
     font-size: 100%;
   }
   
   .no-button:hover {
-    color: darkgray;
+    color: lightblue;
     text-decoration: underline;
   }
