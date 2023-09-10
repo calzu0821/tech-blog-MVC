@@ -46,8 +46,8 @@ const newBlogPostHandler = async (event) => {
     }
   };
   
-  // Add event listener for new blog post submission
+  // Added event listener for new blog post submission
   document.querySelector('.new-blog-post-form').addEventListener('submit', newBlogPostHandler);
   
-  // Add event listener for blog post deletion
+  // Added event listener for blog post deletion
   document.querySelector('.blog-post-list').addEventListener('click', deleteBlogPostHandler);
