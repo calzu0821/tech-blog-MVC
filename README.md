@@ -57,7 +57,7 @@ To install and run the application, follow these steps:
 8. Logout
 - To safely log out of the site, just click "Logout" in the menu.
 
-To explore the app more, visit the live Heroku website: 
+To explore the app more, visit the live Heroku website: https://tech-blog-calzu0821-3db796d31133.herokuapp.com/
 
 ## Credits
 
